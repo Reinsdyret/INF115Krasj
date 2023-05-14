@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Innføring}{2}{0}{1}
+\beamer@sectionintoc {2}{SQL}{16}{0}{2}
+\beamer@sectionintoc {3}{Relasjonsalgebra}{64}{0}{3}
+\beamer@sectionintoc {4}{ER-Diagrammer}{78}{0}{4}
+\beamer@sectionintoc {5}{Normalisasjon}{95}{0}{5}
+\beamer@sectionintoc {6}{Indekser}{129}{0}{6}
+\beamer@sectionintoc {7}{Transaksjoner}{165}{0}{7}
+\beamer@sectionintoc {8}{Alt mulig}{210}{0}{8}

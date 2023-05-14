@@ -161,77 +161,98 @@
 \headcommand {\beamer@framepages {128}{128}}
 \headcommand {\beamer@sectionpages {95}{128}}
 \headcommand {\beamer@subsectionpages {128}{128}}
-\headcommand {\sectionentry {6}{Indekser}{129}{Indekser}{0}}
+\headcommand {\sectionentry {6}{Filer}{129}{Filer}{0}}
 \headcommand {\beamer@subsectionpages {129}{128}}
-\headcommand {\beamer@subsectionentry {0}{6}{1}{129}{Hvorfor indekser?}}
-\headcommand {\slideentry {6}{1}{1}{129/138}{Hvorfor indekser?}{0}}
-\headcommand {\beamer@framepages {129}{138}}
-\headcommand {\beamer@subsectionpages {129}{138}}
-\headcommand {\beamer@subsectionentry {0}{6}{2}{139}{B-trær}}
-\headcommand {\slideentry {6}{2}{1}{139/145}{B-trær}{0}}
-\headcommand {\beamer@framepages {139}{145}}
-\headcommand {\beamer@subsectionpages {139}{145}}
-\headcommand {\beamer@subsectionentry {0}{6}{3}{146}{Hashing}}
-\headcommand {\slideentry {6}{3}{1}{146/151}{Hashing}{0}}
-\headcommand {\beamer@framepages {146}{151}}
-\headcommand {\beamer@subsectionpages {146}{151}}
-\headcommand {\beamer@subsectionentry {0}{6}{4}{152}{Eksempel}}
-\headcommand {\slideentry {6}{4}{1}{152/163}{Eksempel}{0}}
-\headcommand {\beamer@framepages {152}{163}}
-\headcommand {\beamer@subsectionpages {152}{163}}
-\headcommand {\beamer@subsectionentry {0}{6}{5}{164}{Spørretid}}
-\headcommand {\slideentry {6}{5}{1}{164/164}{Spørretid}{0}}
-\headcommand {\beamer@framepages {164}{164}}
-\headcommand {\beamer@sectionpages {129}{164}}
-\headcommand {\beamer@subsectionpages {164}{164}}
-\headcommand {\sectionentry {7}{Transaksjoner}{165}{Transaksjoner}{0}}
-\headcommand {\slideentry {7}{0}{1}{165/167}{}{0}}
-\headcommand {\beamer@framepages {165}{167}}
-\headcommand {\slideentry {7}{0}{2}{168/171}{}{0}}
-\headcommand {\beamer@framepages {168}{171}}
-\headcommand {\beamer@subsectionpages {165}{171}}
-\headcommand {\beamer@subsectionentry {0}{7}{1}{172}{Ting som kan gå galt}}
-\headcommand {\slideentry {7}{1}{1}{172/178}{Ting som kan gå galt}{0}}
-\headcommand {\beamer@framepages {172}{178}}
-\headcommand {\slideentry {7}{1}{2}{179/184}{Ting som kan gå galt}{0}}
-\headcommand {\beamer@framepages {179}{184}}
-\headcommand {\slideentry {7}{1}{3}{185/190}{Ting som kan gå galt}{0}}
-\headcommand {\beamer@framepages {185}{190}}
-\headcommand {\beamer@subsectionpages {172}{190}}
-\headcommand {\beamer@subsectionentry {0}{7}{2}{191}{SQL Transaksjoner}}
-\headcommand {\slideentry {7}{2}{1}{191/191}{SQL Transaksjoner}{0}}
-\headcommand {\beamer@framepages {191}{191}}
-\headcommand {\beamer@subsectionpages {191}{191}}
-\headcommand {\beamer@subsectionentry {0}{7}{3}{192}{Begrep}}
-\headcommand {\slideentry {7}{3}{1}{192/195}{Begrep}{0}}
-\headcommand {\beamer@framepages {192}{195}}
-\headcommand {\beamer@subsectionpages {192}{195}}
-\headcommand {\beamer@subsectionentry {0}{7}{4}{196}{Waiting graph}}
-\headcommand {\slideentry {7}{4}{1}{196/200}{Waiting graph}{0}}
-\headcommand {\beamer@framepages {196}{200}}
-\headcommand {\slideentry {7}{4}{2}{201/208}{Waiting graph}{0}}
-\headcommand {\beamer@framepages {201}{208}}
-\headcommand {\beamer@subsectionpages {196}{208}}
-\headcommand {\beamer@subsectionentry {0}{7}{5}{209}{Spørretid}}
-\headcommand {\slideentry {7}{5}{1}{209/209}{Spørretid}{0}}
-\headcommand {\beamer@framepages {209}{209}}
-\headcommand {\beamer@sectionpages {165}{209}}
-\headcommand {\beamer@subsectionpages {209}{209}}
-\headcommand {\sectionentry {8}{Alt mulig}{210}{Alt mulig}{0}}
-\headcommand {\slideentry {8}{0}{1}{210/214}{}{0}}
-\headcommand {\beamer@framepages {210}{214}}
-\headcommand {\beamer@subsectionpages {210}{214}}
-\headcommand {\beamer@subsectionentry {0}{8}{1}{215}{Spørretid}}
-\headcommand {\slideentry {8}{1}{1}{215/215}{Spørretid}{0}}
-\headcommand {\beamer@framepages {215}{215}}
-\headcommand {\beamer@subsectionpages {215}{215}}
-\headcommand {\beamer@subsectionentry {0}{8}{2}{216}{Tilbakemeldingsskjema}}
-\headcommand {\slideentry {8}{2}{1}{216/216}{Tilbakemeldingsskjema}{0}}
-\headcommand {\beamer@framepages {216}{216}}
-\headcommand {\slideentry {8}{2}{2}{217/217}{Tilbakemeldingsskjema}{0}}
-\headcommand {\beamer@framepages {217}{217}}
-\headcommand {\beamer@partpages {1}{217}}
-\headcommand {\beamer@subsectionpages {216}{217}}
-\headcommand {\beamer@sectionpages {210}{217}}
-\headcommand {\beamer@documentpages {217}}
-\headcommand {\gdef \inserttotalframenumber {66}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{129}{Alt er lagret i filer}}
+\headcommand {\slideentry {6}{1}{1}{129/136}{Alt er lagret i filer}{0}}
+\headcommand {\beamer@framepages {129}{136}}
+\headcommand {\slideentry {6}{1}{2}{137/143}{Alt er lagret i filer}{0}}
+\headcommand {\beamer@framepages {137}{143}}
+\headcommand {\beamer@subsectionpages {129}{143}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{144}{Terminologi}}
+\headcommand {\slideentry {6}{2}{1}{144/146}{Terminologi}{0}}
+\headcommand {\beamer@framepages {144}{146}}
+\headcommand {\beamer@subsectionpages {144}{146}}
+\headcommand {\beamer@subsectionentry {0}{6}{3}{147}{Blocks}}
+\headcommand {\slideentry {6}{3}{1}{147/149}{Blocks}{0}}
+\headcommand {\beamer@framepages {147}{149}}
+\headcommand {\beamer@subsectionpages {147}{149}}
+\headcommand {\beamer@subsectionentry {0}{6}{4}{150}{Spørretid}}
+\headcommand {\slideentry {6}{4}{1}{150/150}{Spørretid}{0}}
+\headcommand {\beamer@framepages {150}{150}}
+\headcommand {\beamer@sectionpages {129}{150}}
+\headcommand {\beamer@subsectionpages {150}{150}}
+\headcommand {\sectionentry {7}{Indekser}{151}{Indekser}{0}}
+\headcommand {\beamer@subsectionpages {151}{150}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{151}{Hvorfor indekser?}}
+\headcommand {\slideentry {7}{1}{1}{151/160}{Hvorfor indekser?}{0}}
+\headcommand {\beamer@framepages {151}{160}}
+\headcommand {\beamer@subsectionpages {151}{160}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{161}{B-trær}}
+\headcommand {\slideentry {7}{2}{1}{161/167}{B-trær}{0}}
+\headcommand {\beamer@framepages {161}{167}}
+\headcommand {\beamer@subsectionpages {161}{167}}
+\headcommand {\beamer@subsectionentry {0}{7}{3}{168}{Hashing}}
+\headcommand {\slideentry {7}{3}{1}{168/173}{Hashing}{0}}
+\headcommand {\beamer@framepages {168}{173}}
+\headcommand {\beamer@subsectionpages {168}{173}}
+\headcommand {\beamer@subsectionentry {0}{7}{4}{174}{Eksempel}}
+\headcommand {\slideentry {7}{4}{1}{174/185}{Eksempel}{0}}
+\headcommand {\beamer@framepages {174}{185}}
+\headcommand {\beamer@subsectionpages {174}{185}}
+\headcommand {\beamer@subsectionentry {0}{7}{5}{186}{Spørretid}}
+\headcommand {\slideentry {7}{5}{1}{186/186}{Spørretid}{0}}
+\headcommand {\beamer@framepages {186}{186}}
+\headcommand {\beamer@sectionpages {151}{186}}
+\headcommand {\beamer@subsectionpages {186}{186}}
+\headcommand {\sectionentry {8}{Transaksjoner}{187}{Transaksjoner}{0}}
+\headcommand {\slideentry {8}{0}{1}{187/189}{}{0}}
+\headcommand {\beamer@framepages {187}{189}}
+\headcommand {\slideentry {8}{0}{2}{190/193}{}{0}}
+\headcommand {\beamer@framepages {190}{193}}
+\headcommand {\beamer@subsectionpages {187}{193}}
+\headcommand {\beamer@subsectionentry {0}{8}{1}{194}{Ting som kan gå galt}}
+\headcommand {\slideentry {8}{1}{1}{194/200}{Ting som kan gå galt}{0}}
+\headcommand {\beamer@framepages {194}{200}}
+\headcommand {\slideentry {8}{1}{2}{201/206}{Ting som kan gå galt}{0}}
+\headcommand {\beamer@framepages {201}{206}}
+\headcommand {\slideentry {8}{1}{3}{207/212}{Ting som kan gå galt}{0}}
+\headcommand {\beamer@framepages {207}{212}}
+\headcommand {\beamer@subsectionpages {194}{212}}
+\headcommand {\beamer@subsectionentry {0}{8}{2}{213}{SQL Transaksjoner}}
+\headcommand {\slideentry {8}{2}{1}{213/213}{SQL Transaksjoner}{0}}
+\headcommand {\beamer@framepages {213}{213}}
+\headcommand {\beamer@subsectionpages {213}{213}}
+\headcommand {\beamer@subsectionentry {0}{8}{3}{214}{Begrep}}
+\headcommand {\slideentry {8}{3}{1}{214/217}{Begrep}{0}}
+\headcommand {\beamer@framepages {214}{217}}
+\headcommand {\beamer@subsectionpages {214}{217}}
+\headcommand {\beamer@subsectionentry {0}{8}{4}{218}{Waiting graph}}
+\headcommand {\slideentry {8}{4}{1}{218/222}{Waiting graph}{0}}
+\headcommand {\beamer@framepages {218}{222}}
+\headcommand {\slideentry {8}{4}{2}{223/230}{Waiting graph}{0}}
+\headcommand {\beamer@framepages {223}{230}}
+\headcommand {\beamer@subsectionpages {218}{230}}
+\headcommand {\beamer@subsectionentry {0}{8}{5}{231}{Spørretid}}
+\headcommand {\slideentry {8}{5}{1}{231/231}{Spørretid}{0}}
+\headcommand {\beamer@framepages {231}{231}}
+\headcommand {\beamer@sectionpages {187}{231}}
+\headcommand {\beamer@subsectionpages {231}{231}}
+\headcommand {\sectionentry {9}{Alt mulig}{232}{Alt mulig}{0}}
+\headcommand {\slideentry {9}{0}{1}{232/236}{}{0}}
+\headcommand {\beamer@framepages {232}{236}}
+\headcommand {\beamer@subsectionpages {232}{236}}
+\headcommand {\beamer@subsectionentry {0}{9}{1}{237}{Spørretid}}
+\headcommand {\slideentry {9}{1}{1}{237/237}{Spørretid}{0}}
+\headcommand {\beamer@framepages {237}{237}}
+\headcommand {\beamer@subsectionpages {237}{237}}
+\headcommand {\beamer@subsectionentry {0}{9}{2}{238}{Tilbakemeldingsskjema}}
+\headcommand {\slideentry {9}{2}{1}{238/238}{Tilbakemeldingsskjema}{0}}
+\headcommand {\beamer@framepages {238}{238}}
+\headcommand {\slideentry {9}{2}{2}{239/239}{Tilbakemeldingsskjema}{0}}
+\headcommand {\beamer@framepages {239}{239}}
+\headcommand {\beamer@partpages {1}{239}}
+\headcommand {\beamer@subsectionpages {238}{239}}
+\headcommand {\beamer@sectionpages {232}{239}}
+\headcommand {\beamer@documentpages {239}}
+\headcommand {\gdef \inserttotalframenumber {71}}

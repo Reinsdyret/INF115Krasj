@@ -3,6 +3,7 @@
 \beamer@sectionintoc {3}{Relasjonsalgebra}{64}{0}{3}
 \beamer@sectionintoc {4}{ER-Diagrammer}{78}{0}{4}
 \beamer@sectionintoc {5}{Normalisasjon}{95}{0}{5}
-\beamer@sectionintoc {6}{Indekser}{129}{0}{6}
-\beamer@sectionintoc {7}{Transaksjoner}{165}{0}{7}
-\beamer@sectionintoc {8}{Alt mulig}{210}{0}{8}
+\beamer@sectionintoc {6}{Filer}{129}{0}{6}
+\beamer@sectionintoc {7}{Indekser}{151}{0}{7}
+\beamer@sectionintoc {8}{Transaksjoner}{187}{0}{8}
+\beamer@sectionintoc {9}{Alt mulig}{232}{0}{9}

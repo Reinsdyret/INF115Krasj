@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.5.11)  14 MAY 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.5.11)  14 MAY 2023 16:22
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -976,7 +976,11 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count379
 \l__pdf_internal_box=\box93
 )
-(./Preamble.aux)
+(./Preamble.aux
+
+LaTeX Warning: Label `fig:guillaume8' multiply defined.
+
+)
 \openout1 = `Preamble.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
@@ -1183,11 +1187,11 @@ Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
 [14
 
 ]
-<images/downloadqr.png, id=1397, 642.4pt x 642.4pt>
+<images/downloadqr.png, id=1508, 321.2pt x 321.2pt>
 File: images/downloadqr.png Graphic file (type png)
 <use images/downloadqr.png>
 Package pdftex.def Info: images/downloadqr.png  used on input line 41.
-(pdftex.def)             Requested size: 139.41699pt x 139.41832pt.
+(pdftex.def)             Requested size: 139.4219pt x 139.41832pt.
  [15
 
  <./images/downloadqr.png>] (./sub_sql.tex [16
@@ -1268,7 +1272,7 @@ File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ] [32
 
 ]
-<images/joins.png, id=2838, 1445.4pt x 813.0375pt>
+<images/joins.png, id=3058, 1445.4pt x 813.0375pt>
 File: images/joins.png Graphic file (type png)
 <use images/joins.png>
 Package pdftex.def Info: images/joins.png  used on input line 79.
@@ -1495,7 +1499,7 @@ File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 86CE3.pygtex)) [62
 
 ]
-<images/guillaume1.jpg, id=5224, 4047.12pt x 3035.34pt>
+<images/guillaume1.jpg, id=5626, 4047.12pt x 3035.34pt>
 File: images/guillaume1.jpg Graphic file (type jpg)
 <use images/guillaume1.jpg>
 Package pdftex.def Info: images/guillaume1.jpg  used on input line 465.
@@ -1569,7 +1573,7 @@ Package pdftex.def Info: images/guillaume1.jpg  used on input line 465.
 0B514.pygtex)) [76
 
 ]
-<images/guillaume4.jpg, id=6344, 4047.12pt x 3035.34pt>
+<images/guillaume4.jpg, id=6831, 4047.12pt x 3035.34pt>
 File: images/guillaume4.jpg Graphic file (type jpg)
 <use images/guillaume4.jpg>
 Package pdftex.def Info: images/guillaume4.jpg  used on input line 57.
@@ -1613,7 +1617,7 @@ Package pdftex.def Info: images/guillaume4.jpg  used on input line 57.
 ] [92
 
 ]
-<images/erdiagram.png, id=7619, 756.8275pt x 465.74pt>
+<images/erdiagram.png, id=8202, 756.8275pt x 465.74pt>
 File: images/erdiagram.png Graphic file (type png)
 <use images/erdiagram.png>
 Package pdftex.def Info: images/erdiagram.png  used on input line 63.
@@ -1621,7 +1625,7 @@ Package pdftex.def Info: images/erdiagram.png  used on input line 63.
  [93
 
  <./images/erdiagram.png>]
-<images/guillaume6.jpg, id=7701, 4047.12pt x 3035.34pt>
+<images/guillaume6.jpg, id=8290, 4047.12pt x 3035.34pt>
 File: images/guillaume6.jpg Graphic file (type jpg)
 <use images/guillaume6.jpg>
 Package pdftex.def Info: images/guillaume6.jpg  used on input line 73.
@@ -1698,7 +1702,7 @@ Package pdftex.def Info: images/guillaume6.jpg  used on input line 73.
 ] [127
 
 ]
-<images/guillaume9.jpg, id=10506, 4047.12pt x 3035.34pt>
+<images/guillaume9.jpg, id=11301, 4047.12pt x 3035.34pt>
 File: images/guillaume9.jpg Graphic file (type jpg)
 <use images/guillaume9.jpg>
 Package pdftex.def Info: images/guillaume9.jpg  used on input line 202.
@@ -1706,7 +1710,7 @@ Package pdftex.def Info: images/guillaume9.jpg  used on input line 202.
  [128
 
  <./images/guillaume9.jpg>])
-(./sub_indeks.tex [129
+(./sub_fil.tex [129
 
 ] [130
 
@@ -1724,143 +1728,64 @@ Package pdftex.def Info: images/guillaume9.jpg  used on input line 202.
 
 ] [137
 
-]
-[138
+] [138
 
 ]
-<images/btre.png, id=11384, 1098.1025pt x 459.7175pt>
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
 [139
 
- <./images/btre.png>]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
+] [140
 
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
+] [141
 
-[140
+] [142
 
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
+] [143
 
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
+] [144
 
-[141
+] [145
+
+] [146
 
 ]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[142
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[143
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[144
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[145
-
-]
-<images/hashing.png, id=11947, 1204.5pt x 923.45pt>
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [146
-
- <./images/hashing.png>]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+<images/blocks.png, id=12933, 406.51875pt x 263.98625pt>
+File: images/blocks.png Graphic file (type png)
+<use images/blocks.png>
+Package pdftex.def Info: images/blocks.png  used on input line 66.
+(pdftex.def)             Requested size: 166.49387pt x 108.12054pt.
  [147
 
-]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [148
+ <./images/blocks.png>]
+File: images/blocks.png Graphic file (type png)
+<use images/blocks.png>
+Package pdftex.def Info: images/blocks.png  used on input line 66.
+(pdftex.def)             Requested size: 166.49387pt x 108.12054pt.
+
+[148
 
 ]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+File: images/blocks.png Graphic file (type png)
+<use images/blocks.png>
+Package pdftex.def Info: images/blocks.png  used on input line 66.
+(pdftex.def)             Requested size: 166.49387pt x 108.12054pt.
  [149
 
 ]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+<images/guillaume7.jpg, id=13193, 4047.12pt x 3035.34pt>
+File: images/guillaume7.jpg Graphic file (type jpg)
+<use images/guillaume7.jpg>
+Package pdftex.def Info: images/guillaume7.jpg  used on input line 76.
+(pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
  [150
 
-]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [151
+ <./images/guillaume7.jpg>]) (./sub_indeks.tex [151
 
 ] [152
 
-] [153
-
 ]
-[154
+[153
+
+] [154
 
 ] [155
 
@@ -1874,44 +1799,140 @@ Package pdftex.def Info: images/hashing.png  used on input line 67.
 
 ] [160
 
-] [161
+]
+<images/btre.png, id=14139, 1098.1025pt x 459.7175pt>
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
 
-] [162
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
 
-] [163
+[161
+
+ <./images/btre.png>]
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
+
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
+
+[162
 
 ]
-<images/guillaume10.jpg, id=13387, 4047.12pt x 3035.34pt>
-File: images/guillaume10.jpg Graphic file (type jpg)
-<use images/guillaume10.jpg>
-Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
-(pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [164
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
 
- <./images/guillaume10.jpg>]) (./sub_trans.tex [165
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
 
-] [166
-
-] [167
-
-] [168
-
-] [169
-
-] [170
-
-] [171
+[163
 
 ]
-[172
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
 
-] [173
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
+
+[164
+
+]
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
+
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
+
+[165
+
+]
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
+
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
+
+[166
+
+]
+File: images/btre.png Graphic file (type png)
+<use images/btre.png>
+Package pdftex.def Info: images/btre.png  used on input line 43.
+(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
+
+Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
+ [] 
+ []
+
+[167
+
+]
+<images/hashing.png, id=14743, 1204.5pt x 923.45pt>
+File: images/hashing.png Graphic file (type png)
+<use images/hashing.png>
+Package pdftex.def Info: images/hashing.png  used on input line 67.
+(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+ [168
+
+ <./images/hashing.png>]
+File: images/hashing.png Graphic file (type png)
+<use images/hashing.png>
+Package pdftex.def Info: images/hashing.png  used on input line 67.
+(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+ [169
+
+]
+File: images/hashing.png Graphic file (type png)
+<use images/hashing.png>
+Package pdftex.def Info: images/hashing.png  used on input line 67.
+(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+ [170
+
+]
+File: images/hashing.png Graphic file (type png)
+<use images/hashing.png>
+Package pdftex.def Info: images/hashing.png  used on input line 67.
+(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+ [171
+
+]
+File: images/hashing.png Graphic file (type png)
+<use images/hashing.png>
+Package pdftex.def Info: images/hashing.png  used on input line 67.
+(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+ [172
+
+]
+File: images/hashing.png Graphic file (type png)
+<use images/hashing.png>
+Package pdftex.def Info: images/hashing.png  used on input line 67.
+(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
+ [173
 
 ] [174
 
 ] [175
 
-] [176
+]
+[176
 
 ] [177
 
@@ -1927,14 +1948,19 @@ Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
 
 ] [183
 
-]
-[184
+] [184
 
 ] [185
 
-] [186
+]
+<images/guillaume10.jpg, id=16292, 4047.12pt x 3035.34pt>
+File: images/guillaume10.jpg Graphic file (type jpg)
+<use images/guillaume10.jpg>
+Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
+(pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
+ [186
 
-] [187
+ <./images/guillaume10.jpg>]) (./sub_trans.tex [187
 
 ] [188
 
@@ -1942,21 +1968,14 @@ Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
 
 ] [190
 
-]
-\openout4 = `Preamble.vrb'.
-
- (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/DD0C24FF2919B163FB3DE72D990034CFD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [191
+] [191
 
 ] [192
 
 ] [193
 
-] [194
+]
+[194
 
 ] [195
 
@@ -1970,8 +1989,7 @@ Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
 
 ] [200
 
-]
-[201
+] [201
 
 ] [202
 
@@ -1981,47 +1999,107 @@ Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
 
 ] [205
 
-] [206
+]
+[206
 
 ] [207
 
 ] [208
 
-]
-<images/guillaume11.jpg, id=17147, 4047.12pt x 3035.34pt>
-File: images/guillaume11.jpg Graphic file (type jpg)
-<use images/guillaume11.jpg>
-Package pdftex.def Info: images/guillaume11.jpg  used on input line 144.
-(pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [209
+] [209
 
- <./images/guillaume11.jpg>]) (./sub_resten.tex [210
+] [210
 
 ] [211
 
 ] [212
 
-] [213
+]
+\openout4 = `Preamble.vrb'.
+
+ (./Preamble.vrb
+\openout5 = `Preamble.pyg'.
+
+
+(./_minted-Preamble/DD0C24FF2919B163FB3DE72D990034CFD048B23282FE82A93B7EEE73C3A
+0B514.pygtex)) [213
 
 ] [214
 
+] [215
+
+] [216
+
+] [217
+
+] [218
+
+] [219
+
+] [220
+
+] [221
+
+] [222
+
 ]
-<images/guillaume8.jpg, id=17621, 4047.12pt x 3035.34pt>
+[223
+
+] [224
+
+] [225
+
+] [226
+
+] [227
+
+] [228
+
+] [229
+
+] [230
+
+]
+<images/guillaume11.jpg, id=20326, 4047.12pt x 3035.34pt>
+File: images/guillaume11.jpg Graphic file (type jpg)
+<use images/guillaume11.jpg>
+Package pdftex.def Info: images/guillaume11.jpg  used on input line 144.
+(pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
+ [231
+
+ <./images/guillaume11.jpg>]) (./sub_resten.tex [232
+
+] [233
+
+] [234
+
+] [235
+
+] [236
+
+]
+<images/guillaume8.jpg, id=20837, 4047.12pt x 3035.34pt>
 File: images/guillaume8.jpg Graphic file (type jpg)
 <use images/guillaume8.jpg>
 Package pdftex.def Info: images/guillaume8.jpg  used on input line 20.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [215
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:guillaume
+8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \end{frame}
+                 [237
 
  <./images/guillaume8.jpg>])
-<images/qrtilbakemelding.png, id=17702, 401.5pt x 401.5pt>
+<images/qrtilbakemelding.png, id=20923, 321.2pt x 321.2pt>
 File: images/qrtilbakemelding.png Graphic file (type png)
 <use images/qrtilbakemelding.png>
-Package pdftex.def Info: images/qrtilbakemelding.png  used on input line 59.
-(pdftex.def)             Requested size: 139.41821pt x 139.41832pt.
- [216
+Package pdftex.def Info: images/qrtilbakemelding.png  used on input line 60.
+(pdftex.def)             Requested size: 139.4219pt x 139.41832pt.
+ [238
 
- <./images/qrtilbakemelding.png>] [217
+ <./images/qrtilbakemelding.png>] [239
 
 ])
 \tf@nav=\write8
@@ -2034,16 +2112,19 @@ Package pdftex.def Info: images/qrtilbakemelding.png  used on input line 59.
 \openout10 = `Preamble.snm'.
 
  (./Preamble.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `Preamble.out' has not changed.
-(rerunfilecheck)             Checksum: AE4715383CCAF753D463C84B42128079;5586.
+(rerunfilecheck)             Checksum: CB9CFE5537E77640AECC684A74F5C7C1;6145.
 runsystem(rm Preamble.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 30760 strings out of 476025
- 621391 string characters out of 5796532
- 1914388 words of memory out of 5000000
- 49899 multiletter control sequences out of 15000+600000
+ 30857 strings out of 476025
+ 622620 string characters out of 5796532
+ 1917388 words of memory out of 5000000
+ 49941 multiletter control sequences out of 15000+600000
  528849 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,122p,415b,1060s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2061,10 +2142,10 @@ ist/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf-dist/fonts/type1
 /public/cm-super/sfsx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-supe
 r/sfsx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
 
-Output written on Preamble.pdf (217 pages, 20096585 bytes).
+Output written on Preamble.pdf (239 pages, 22479069 bytes).
 PDF statistics:
- 18050 PDF objects out of 18468 (max. 8388607)
- 17377 compressed objects within 174 object streams
- 494 named destinations out of 1000 (max. 500000)
- 1370 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21292 PDF objects out of 22161 (max. 8388607)
+ 20556 compressed objects within 206 object streams
+ 544 named destinations out of 1000 (max. 500000)
+ 1420 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.5.11)  14 MAY 2023 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.5.11)  15 MAY 2023 15:12
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1110,91 +1110,14 @@ Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
 [3
 
 ]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[4
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[5
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[6
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[7
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[8
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[9
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[10
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[11
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[12
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[13
-
-]
-Overfull \hbox (12.82166pt too wide) in paragraph at lines 31--31
-[][]  
- []
-
-[14
-
-]
-<images/downloadqr.png, id=1508, 321.2pt x 321.2pt>
+<images/downloadqr.png, id=562, 321.2pt x 321.2pt>
 File: images/downloadqr.png Graphic file (type png)
 <use images/downloadqr.png>
 Package pdftex.def Info: images/downloadqr.png  used on input line 41.
 (pdftex.def)             Requested size: 139.4219pt x 139.41832pt.
- [15
+ [4
 
- <./images/downloadqr.png>] (./sub_sql.tex [16
+ <./images/downloadqr.png>] (./sub_sql.tex [5
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1210,24 +1133,46 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 .
  (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-))) [17
+))) [6
 
 ]
 \openout4 = `Preamble.vrb'.
 
 
-(./Preamble.vrb) [18
-
-] (./Preamble.vrb) [19
-
-] (./Preamble.vrb) [20
+(./Preamble.vrb) [7
 
 ]
-(./Preamble.vrb) [21
+\openout4 = `Preamble.vrb'.
 
-] (./Preamble.vrb) [22
+ (./Preamble.vrb
+\openout5 = `Preamble.pyg'.
 
-] (./Preamble.vrb) [23
+
+(./_minted-Preamble/0432B98B5B3CB0A7F0B167D2FB3E0AD3D048B23282FE82A93B7EEE73C3A
+0B514.pygtex)
+\openout5 = `Preamble.pyg'.
+
+
+(./_minted-Preamble/12F844CC05F7D2FC874EAAF8011A3F00D048B23282FE82A93B7EEE73C3A
+0B514.pygtex)) [8
+
+] [9
+
+]
+<images/joins.png, id=1092, 1445.4pt x 813.0375pt>
+File: images/joins.png Graphic file (type png)
+<use images/joins.png>
+Package pdftex.def Info: images/joins.png  used on input line 79.
+(pdftex.def)             Requested size: 247.85408pt x 139.41832pt.
+ [10
+
+ <./images/joins.png>] [11
+
+] [12
+
+] [13
+
+] [14
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1237,90 +1182,13 @@ File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 \openout5 = `Preamble.pyg'.
 
 
-(./_minted-Preamble/0432B98B5B3CB0A7F0B167D2FB3E0AD3D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/12F844CC05F7D2FC874EAAF8011A3F00D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [24
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/0432B98B5B3CB0A7F0B167D2FB3E0AD3D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/12F844CC05F7D2FC874EAAF8011A3F00D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [25
-
-] [26
-
-] [27
-
-] [28
-
-] [29
-
-] [30
-
-] [31
-
-] [32
-
-]
-<images/joins.png, id=3058, 1445.4pt x 813.0375pt>
-File: images/joins.png Graphic file (type png)
-<use images/joins.png>
-Package pdftex.def Info: images/joins.png  used on input line 79.
-(pdftex.def)             Requested size: 247.85408pt x 139.41832pt.
- [33
-
- <./images/joins.png>] [34
-
-] [35
-
-] [36
-
-] [37
-
-] [38
-
-] [39
-
-] [40
-
-] [41
-
-]
-\openout4 = `Preamble.vrb'.
-
- (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
 (./_minted-Preamble/C426F70AB7279914976F633AE0584F91D048B23282FE82A93B7EEE73C3A
 0B514.pygtex)
 \openout5 = `Preamble.pyg'.
 
 
 (./_minted-Preamble/9962A10D04888256D09D5824B460FF0BD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [42
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/C426F70AB7279914976F633AE0584F91D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/9962A10D04888256D09D5824B460FF0BD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [43
+0B514.pygtex)) [15
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1335,19 +1203,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/2F8BDB98F96E5D87EF4A43E35686ADAED048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [44
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/AADC54C6BEA526A2F232EF32135DE4B4D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/2F8BDB98F96E5D87EF4A43E35686ADAED048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [45
+0B514.pygtex)) [16
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1357,7 +1213,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/2B8566CB6A706525399136EFC78F87B9D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [46
+0B514.pygtex)) [17
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1367,7 +1223,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/EFD97A15E326B210884893A1CBAB74A0D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [47
+0B514.pygtex)) [18
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1377,7 +1233,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/A38274C76084975DE0919D9372C19F16D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [48
+0B514.pygtex)) [19
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1387,7 +1243,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/CEE58320C3B0C84135A258D6DB2772D5D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [49
+0B514.pygtex)) [20
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1397,7 +1253,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/C4EF1393B218FBD1010CDB8F8BD8F25FD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [50
+0B514.pygtex)) [21
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1407,7 +1263,7 @@ Package pdftex.def Info: images/joins.png  used on input line 79.
 
 
 (./_minted-Preamble/3CA10CAB4DEEAF7982C2410B69CD5811D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [51
+0B514.pygtex)) [22
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1422,18 +1278,9 @@ LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line
 4.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-))) [52
+))) [23
 
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [53
-
-] [54
-
-] [55
-
-] [56
-
-]
-[57
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [24
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1448,95 +1295,28 @@ File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 
 
 (./_minted-Preamble/71E2B5FBD3041FB37CBE70A6B4FD0DB9F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)) [58
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/17B633E42B9DE3BBB2186D84FB55D9D5F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/71E2B5FBD3041FB37CBE70A6B4FD0DB9F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)) [59
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/17B633E42B9DE3BBB2186D84FB55D9D5F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/71E2B5FBD3041FB37CBE70A6B4FD0DB9F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)) [60
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/17B633E42B9DE3BBB2186D84FB55D9D5F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/71E2B5FBD3041FB37CBE70A6B4FD0DB9F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)) [61
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/17B633E42B9DE3BBB2186D84FB55D9D5F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/71E2B5FBD3041FB37CBE70A6B4FD0DB9F92C8222F7CA7AF3D853760D5D3
-86CE3.pygtex)) [62
+86CE3.pygtex)) [25
 
 ]
-<images/guillaume1.jpg, id=5626, 4047.12pt x 3035.34pt>
+<images/guillaume1.jpg, id=2475, 4047.12pt x 3035.34pt>
 File: images/guillaume1.jpg Graphic file (type jpg)
 <use images/guillaume1.jpg>
 Package pdftex.def Info: images/guillaume1.jpg  used on input line 465.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [63
+ [26
 
- <./images/guillaume1.jpg>]) (./sub_rel.tex [64
-
-]
-[65
-
-] [66
-
-] [67
-
-] [68
-
-] [69
-
-] [70
+ <./images/guillaume1.jpg>]) (./sub_rel.tex [27
 
 ]
 \openout4 = `Preamble.vrb'.
 
- (./Preamble.vrb
+
+(./Preamble.vrb
 \openout5 = `Preamble.pyg'.
 
 
 (./_minted-Preamble/91DF306D6476E5153B39570EE6B71DE2D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [71
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/91DF306D6476E5153B39570EE6B71DE2D048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [72
+0B514.pygtex)) [28
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1546,14 +1326,7 @@ Package pdftex.def Info: images/guillaume1.jpg  used on input line 465.
 
 
 (./_minted-Preamble/8DA356BFF869D8C3011160EBE1821C7BD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [73
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/8DA356BFF869D8C3011160EBE1821C7BD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [74
+0B514.pygtex)) [29
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -1563,244 +1336,105 @@ Package pdftex.def Info: images/guillaume1.jpg  used on input line 465.
 
 
 (./_minted-Preamble/4DF676AB22CE6F34A5E80B24F20D22FED048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [75
-
-] (./Preamble.vrb
-\openout5 = `Preamble.pyg'.
-
-
-(./_minted-Preamble/4DF676AB22CE6F34A5E80B24F20D22FED048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [76
+0B514.pygtex)) [30
 
 ]
-<images/guillaume4.jpg, id=6831, 4047.12pt x 3035.34pt>
+<images/guillaume4.jpg, id=2913, 4047.12pt x 3035.34pt>
 File: images/guillaume4.jpg Graphic file (type jpg)
 <use images/guillaume4.jpg>
 Package pdftex.def Info: images/guillaume4.jpg  used on input line 57.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [77
+ [31
 
- <./images/guillaume4.jpg>]) (./sub_er.tex [78
-
-] [79
-
-]
-[80
+ <./images/guillaume4.jpg>]) (./sub_er.tex [32
 
 ]
 \arrowsize=\dimen342
 \arrowsize=\dimen343
 \arrowsize=\dimen344
 \arrowsize=\dimen345
- [81
-
-] [82
-
-] [83
-
-] [84
-
-] [85
-
-] [86
-
-] [87
-
-] [88
-
-] [89
-
-] [90
-
-] [91
-
-] [92
+ [33
 
 ]
-<images/erdiagram.png, id=8202, 756.8275pt x 465.74pt>
+[34
+
+]
+<images/erdiagram.png, id=3259, 756.8275pt x 465.74pt>
 File: images/erdiagram.png Graphic file (type png)
 <use images/erdiagram.png>
 Package pdftex.def Info: images/erdiagram.png  used on input line 63.
 (pdftex.def)             Requested size: 226.55342pt x 139.41832pt.
- [93
+ [35
 
  <./images/erdiagram.png>]
-<images/guillaume6.jpg, id=8290, 4047.12pt x 3035.34pt>
+<images/guillaume6.jpg, id=3347, 4047.12pt x 3035.34pt>
 File: images/guillaume6.jpg Graphic file (type jpg)
 <use images/guillaume6.jpg>
 Package pdftex.def Info: images/guillaume6.jpg  used on input line 73.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [94
+ [36
 
- <./images/guillaume6.jpg>]) (./sub_normal.tex [95
+ <./images/guillaume6.jpg>])
+(./sub_normal.tex [37
 
-] [96
+] [38
 
-]
-[97
+] [39
 
-] [98
+] [40
 
-] [99
+] [41
 
-] [100
+] [42
 
-] [101
-
-] [102
-
-] [103
-
-] [104
-
-] [105
-
-] [106
-
-] [107
-
-] [108
-
-] [109
+] [43
 
 ]
-[110
+Overfull \vbox (14.74161pt too high) detected at line 148
+ []
 
-] [111
+[44
 
-] [112
+] [45
 
-] [113
-
-] [114
-
-] [115
-
-] [116
-
-] [117
-
-] [118
-
-] [119
-
-] [120
-
-] [121
+] [46
 
 ]
-[122
-
-] [123
-
-] [124
-
-] [125
-
-] [126
-
-] [127
-
-]
-<images/guillaume9.jpg, id=11301, 4047.12pt x 3035.34pt>
+<images/guillaume9.jpg, id=4344, 4047.12pt x 3035.34pt>
 File: images/guillaume9.jpg Graphic file (type jpg)
 <use images/guillaume9.jpg>
 Package pdftex.def Info: images/guillaume9.jpg  used on input line 202.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [128
+ [47
 
- <./images/guillaume9.jpg>])
-(./sub_fil.tex [129
+ <./images/guillaume9.jpg>]) (./sub_fil.tex [48
 
-] [130
-
-] [131
-
-] [132
-
-] [133
-
-] [134
-
-] [135
-
-] [136
-
-] [137
-
-] [138
+] [49
 
 ]
-[139
-
-] [140
-
-] [141
-
-] [142
-
-] [143
-
-] [144
-
-] [145
-
-] [146
+[50
 
 ]
-<images/blocks.png, id=12933, 406.51875pt x 263.98625pt>
+<images/blocks.png, id=4689, 406.51875pt x 263.98625pt>
 File: images/blocks.png Graphic file (type png)
 <use images/blocks.png>
 Package pdftex.def Info: images/blocks.png  used on input line 66.
 (pdftex.def)             Requested size: 166.49387pt x 108.12054pt.
- [147
+ [51
 
  <./images/blocks.png>]
-File: images/blocks.png Graphic file (type png)
-<use images/blocks.png>
-Package pdftex.def Info: images/blocks.png  used on input line 66.
-(pdftex.def)             Requested size: 166.49387pt x 108.12054pt.
-
-[148
-
-]
-File: images/blocks.png Graphic file (type png)
-<use images/blocks.png>
-Package pdftex.def Info: images/blocks.png  used on input line 66.
-(pdftex.def)             Requested size: 166.49387pt x 108.12054pt.
- [149
-
-]
-<images/guillaume7.jpg, id=13193, 4047.12pt x 3035.34pt>
+<images/guillaume7.jpg, id=4778, 4047.12pt x 3035.34pt>
 File: images/guillaume7.jpg Graphic file (type jpg)
 <use images/guillaume7.jpg>
 Package pdftex.def Info: images/guillaume7.jpg  used on input line 76.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [150
+ [52
 
- <./images/guillaume7.jpg>]) (./sub_indeks.tex [151
-
-] [152
-
-]
-[153
-
-] [154
-
-] [155
-
-] [156
-
-] [157
-
-] [158
-
-] [159
-
-] [160
+ <./images/guillaume7.jpg>])
+(./sub_indeks.tex [53
 
 ]
-<images/btre.png, id=14139, 1098.1025pt x 459.7175pt>
+<images/btre.png, id=4953, 1098.1025pt x 459.7175pt>
 File: images/btre.png Graphic file (type png)
 <use images/btre.png>
 Package pdftex.def Info: images/btre.png  used on input line 43.
@@ -1810,209 +1444,35 @@ Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
  [] 
  []
 
-[161
+[54
 
  <./images/btre.png>]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[162
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[163
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[164
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[165
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[166
-
-]
-File: images/btre.png Graphic file (type png)
-<use images/btre.png>
-Package pdftex.def Info: images/btre.png  used on input line 43.
-(pdftex.def)             Requested size: 197.08022pt x 82.51282pt.
-
-Overfull \hbox (4.78575pt too wide) in paragraph at lines 43--43
- [] 
- []
-
-[167
-
-]
-<images/hashing.png, id=14743, 1204.5pt x 923.45pt>
+<images/hashing.png, id=5043, 1204.5pt x 923.45pt>
 File: images/hashing.png Graphic file (type png)
 <use images/hashing.png>
 Package pdftex.def Info: images/hashing.png  used on input line 67.
 (pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [168
+ [55
 
- <./images/hashing.png>]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [169
+ <./images/hashing.png>] [56
 
 ]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [170
-
-]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [171
-
-]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [172
-
-]
-File: images/hashing.png Graphic file (type png)
-<use images/hashing.png>
-Package pdftex.def Info: images/hashing.png  used on input line 67.
-(pdftex.def)             Requested size: 141.02335pt x 108.12054pt.
- [173
-
-] [174
-
-] [175
-
-]
-[176
-
-] [177
-
-] [178
-
-] [179
-
-] [180
-
-] [181
-
-] [182
-
-] [183
-
-] [184
-
-] [185
-
-]
-<images/guillaume10.jpg, id=16292, 4047.12pt x 3035.34pt>
+<images/guillaume10.jpg, id=5221, 4047.12pt x 3035.34pt>
 File: images/guillaume10.jpg Graphic file (type jpg)
 <use images/guillaume10.jpg>
 Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [186
+ [57
 
- <./images/guillaume10.jpg>]) (./sub_trans.tex [187
+ <./images/guillaume10.jpg>]) (./sub_trans.tex [58
 
-] [188
+] [59
 
-] [189
+] [60
 
-] [190
+] [61
 
-] [191
-
-] [192
-
-] [193
-
-]
-[194
-
-] [195
-
-] [196
-
-] [197
-
-] [198
-
-] [199
-
-] [200
-
-] [201
-
-] [202
-
-] [203
-
-] [204
-
-] [205
-
-]
-[206
-
-] [207
-
-] [208
-
-] [209
-
-] [210
-
-] [211
-
-] [212
+] [62
 
 ]
 \openout4 = `Preamble.vrb'.
@@ -2022,63 +1482,27 @@ Package pdftex.def Info: images/guillaume10.jpg  used on input line 95.
 
 
 (./_minted-Preamble/DD0C24FF2919B163FB3DE72D990034CFD048B23282FE82A93B7EEE73C3A
-0B514.pygtex)) [213
+0B514.pygtex)) [63
 
-] [214
+] [64
 
-] [215
+] [65
 
-] [216
-
-] [217
-
-] [218
-
-] [219
-
-] [220
-
-] [221
-
-] [222
+] [66
 
 ]
-[223
-
-] [224
-
-] [225
-
-] [226
-
-] [227
-
-] [228
-
-] [229
-
-] [230
-
-]
-<images/guillaume11.jpg, id=20326, 4047.12pt x 3035.34pt>
+<images/guillaume11.jpg, id=6115, 4047.12pt x 3035.34pt>
 File: images/guillaume11.jpg Graphic file (type jpg)
 <use images/guillaume11.jpg>
 Package pdftex.def Info: images/guillaume11.jpg  used on input line 144.
 (pdftex.def)             Requested size: 185.87953pt x 139.41832pt.
- [231
+ [67
 
- <./images/guillaume11.jpg>]) (./sub_resten.tex [232
-
-] [233
-
-] [234
-
-] [235
-
-] [236
+ <./images/guillaume11.jpg>])
+(./sub_resten.tex [68
 
 ]
-<images/guillaume8.jpg, id=20837, 4047.12pt x 3035.34pt>
+<images/guillaume8.jpg, id=6290, 4047.12pt x 3035.34pt>
 File: images/guillaume8.jpg Graphic file (type jpg)
 <use images/guillaume8.jpg>
 Package pdftex.def Info: images/guillaume8.jpg  used on input line 20.
@@ -2089,17 +1513,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{fig:guillaume
 <to be read again> 
                    \relax 
 l.20 \end{frame}
-                 [237
+                 [69
 
  <./images/guillaume8.jpg>])
-<images/qrtilbakemelding.png, id=20923, 321.2pt x 321.2pt>
+<images/qrtilbakemelding.png, id=6378, 321.2pt x 321.2pt>
 File: images/qrtilbakemelding.png Graphic file (type png)
 <use images/qrtilbakemelding.png>
 Package pdftex.def Info: images/qrtilbakemelding.png  used on input line 60.
 (pdftex.def)             Requested size: 139.4219pt x 139.41832pt.
- [238
+ [70
 
- <./images/qrtilbakemelding.png>] [239
+ <./images/qrtilbakemelding.png>] [71
 
 ])
 \tf@nav=\write8
@@ -2115,37 +1539,382 @@ Package pdftex.def Info: images/qrtilbakemelding.png  used on input line 60.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `Preamble.out' has not changed.
-(rerunfilecheck)             Checksum: CB9CFE5537E77640AECC684A74F5C7C1;6145.
+
+Package rerunfilecheck Warning: File `Preamble.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Preamble.out':
+(rerunfilecheck)             Before: CB9CFE5537E77640AECC684A74F5C7C1;6145
+(rerunfilecheck)             After:  5B0FE0CCF25F33A009A7D0088C6969BF;6121.
 runsystem(rm Preamble.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 30857 strings out of 476025
- 622620 string characters out of 5796532
- 1917388 words of memory out of 5000000
- 49941 multiletter control sequences out of 15000+600000
+ 30535 strings out of 476025
+ 616723 string characters out of 5796532
+ 1914388 words of memory out of 5000000
+ 49934 multiletter control sequences out of 15000+600000
  528849 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,20n,122p,415b,1060s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf-dist/
-fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/cm-super/sfss0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
-ss1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></us
-r/share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf-d
-ist/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf-dist/fonts/type1
-/public/cm-super/sfsx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-supe
-r/sfsx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+ 128i,20n,122p,415b,1058s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Preamble.pdf (239 pages, 22479069 bytes).
+pdfTeX warning (dest): name{Navigation72} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation239} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation238} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation237} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation232} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation231} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation223} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation218} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation214} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation213} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation207} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation201} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation194} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation190} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation187} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation186} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation174} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation168} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation161} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation151} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation150} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation147} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation144} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation137} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation129} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation128} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation126} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation124} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation122} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation119} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation118} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation111} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation109} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation104} has been referenced but does not exi
+st, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation99} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation95} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation94} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation93} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation82} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation81} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation78} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation77} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation75} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation73} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.9.2.238} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.9.1.237} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.8.5.231} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.8.4.218} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.8.3.214} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.8.2.213} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.8.1.194} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.7.5.186} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.7.4.174} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.7.3.168} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.7.2.161} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.7.1.151} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.6.4.150} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.6.3.147} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.6.2.144} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.6.1.129} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.5.128} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.4.119} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.3.109} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.2.99} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.5.1.95} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.4.2.94} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.4.1.81} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.3.77} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.2.71} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.3.1.64} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.14.63} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.13.53} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.12.51} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.11.50} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.10.49} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.9.48} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.8.47} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.7.46} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.6.44} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.5.42} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.4.24} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.3.18} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.2.17} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.2.1.16} has been referenced but does not e
+xist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline0.1.2.15} has been referenced but does not e
+xist, replaced by a fixed one
+
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf-dist/fo
+nts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/cm-super/sfss0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss
+1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/
+share/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf-dis
+t/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/cm-super/sfsx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
+sfsx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on Preamble.pdf (71 pages, 21781251 bytes).
 PDF statistics:
- 21292 PDF objects out of 22161 (max. 8388607)
- 20556 compressed objects within 206 object streams
- 544 named destinations out of 1000 (max. 500000)
- 1420 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6692 PDF objects out of 7423 (max. 8388607)
+ 6371 compressed objects within 64 object streams
+ 293 named destinations out of 1000 (max. 500000)
+ 790 words of extra memory for PDF output out of 10000 (max. 10000000)
 
